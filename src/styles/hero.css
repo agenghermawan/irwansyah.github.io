@@ -1,0 +1,23 @@
+.hero {
+  color: white;
+  font-family: "Poppins", sans-serif;
+}
+
+.title-name {
+  color: rgb(100, 255, 218);
+  font-family: SF Mono, Fira Code, Fira Mono, Roboto Mono, Lucida Console,
+    Monaco, monospace;
+}
+
+.text-name {
+  color: rgb(204, 214, 246);
+  font-weight: 600;
+}
+
+.sub-text-name {
+  color: rgb(136, 146, 176);
+}
+
+.desc {
+  color: rgb(136, 146, 176);
+}

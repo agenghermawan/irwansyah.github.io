@@ -1,0 +1,39 @@
+.project_title {
+  font-size: 16px;
+  font-weight: normal;
+  color: rgb(100, 255, 218);
+  font-family: SF Mono, Fira Code, Fira Mono, Roboto Mono, Lucida Console,
+    Monaco, monospace;
+  margin-top: 10px;
+  padding-top: 0px;
+}
+
+.project_name {
+  display: inline-block;
+  text-decoration: none;
+  text-decoration-skip-ink: auto;
+  color: rgb(100, 255, 218);
+  font-weight: 600;
+  font-size: 24px;
+  position: relative;
+  transition: all 0.25s cubic-bezier(0.645, 0.045, 0.355, 1) 0s;
+  cursor: pointer;
+  font-family: "Poppins", sans-serif;
+}
+
+.project-desc {
+  font-size: 18px;
+  font-family: "Poppins", sans-serif;
+  box-shadow: rgba(2, 12, 27, 0.7) 0px 10px 30px -15px;
+  padding: 25px;
+  background-color: rgb(23, 42, 69);
+  border-radius: 3px;
+  font-size: 18px;
+  color: rgb(168, 178, 209);
+}
+
+.project-tools li {
+  font-family: SF Mono, Fira Code, Fira Mono, Roboto Mono, Lucida Console,
+    Monaco, monospace;
+  color: rgb(100, 255, 218);
+}

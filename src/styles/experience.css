@@ -1,0 +1,42 @@
+.desc-experience {
+  margin-bottom: 30px;
+}
+
+.desc-experience__title {
+  margin-top: 20px;
+}
+
+.desc-experience__title > h5 {
+  font-family: "Poppins", sans-serif;
+  font-size: 17px;
+  font-weight: normal;
+  letter-spacing: 0.05em;
+  color: rgb(168, 178, 209);
+}
+
+.desc-experience__time {
+  margin-top: 10px;
+}
+
+.desc-experience__time > h5 {
+  font-family: SF Mono, Fira Code, Fira Mono, Roboto Mono, Lucida Console,
+    Monaco, monospace;
+  font-size: 13px;
+  font-weight: normal;
+  letter-spacing: 0.05em;
+  color: rgb(168, 178, 209);
+}
+
+.desc-experience__list {
+  margin-top: 10px;
+}
+
+.desc-experience__list {
+  font-family: "Poppins", sans-serif;
+}
+
+.desc-experience__list li {
+  margin-bottom: 10px;
+  color: rgb(136, 146, 176);
+  line-height: 1.3;
+}
